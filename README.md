@@ -1,7 +1,7 @@
-# 👨‍💻 Juan David Restrepo — Fullstack Developer
+# 👨‍💻 Juan David Restrepo — Fullstack Junior Developer
 
-🌐 [GitHub](https://github.com/Juandrestrepo0550) | 📧 juandrestrepo0550@gmail.com  
-📍 Colombia | 💼 Fullstack Developer | 🕹️ Apasionado por la tecnología y el desarrollo web
+🌐 [GitHub](https://github.com/Juandrestrepo0550) | 📧 heavenorck2@gmail.com  
+📍 Colombia | 💼 Fullstack Junior Developer | 🕹️ Apasionado por la tecnología y el desarrollo web
 
 ---
 
@@ -33,8 +33,7 @@
 ## 🧠 Habilidades
 
 - 🧩 Programación Orientada a Objetos (POO)
-- 🌐 Desarrollo Fullstack Web
-- ⚙️ Consumo de APIs RESTful
+- 🌐 Desarrollo Fullstack Web Junior
 - 🛠️ Control de versiones con Git y GitHub
 - 🔐 Autenticación y autorización de usuarios
 - 📦 Deploy y hosting (Heroku, Vercel, XAMPP)
