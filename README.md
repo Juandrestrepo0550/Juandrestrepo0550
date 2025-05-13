@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👨‍💻 Juan David Restrepo — Fullstack Developer
 
-<!--
-**Juandrestrepo0550/Juandrestrepo0550** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 [GitHub](https://github.com/Juandrestrepo0550) | 📧 juandrestrepo0550@gmail.com  
+📍 Colombia | 💼 Fullstack Developer | 🕹️ Apasionado por la tecnología y el desarrollo web
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 💻 Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![P.O.O](https://img.shields.io/badge/Programaci%C3%B3n%20Orientada%20a%20Objetos-OOP-blue?style=flat)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 🧠 Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=flat&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-Web%20Framework-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### 🛢️ Bases de Datos
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+---
+
+## 🧠 Habilidades
+
+- 🧩 Programación Orientada a Objetos (POO)
+- 🌐 Desarrollo Fullstack Web
+- ⚙️ Consumo de APIs RESTful
+- 🛠️ Control de versiones con Git y GitHub
+- 🔐 Autenticación y autorización de usuarios
+- 📦 Deploy y hosting (Heroku, Vercel, XAMPP)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juandrestrepo0550&show_icons=true&theme=radical)
+
+---
+
+## 📫 ¡Conectemos!
+
+- 💼 LinkedIn: *[Agrega aquí tu LinkedIn si tienes uno]*
+- 🧑‍💻 Portafolio: *[En construcción / Agrega tu portafolio si tienes uno]*
+
+> 🚀 Siempre aprendiendo y creando nuevas soluciones para el mundo digital.
